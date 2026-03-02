@@ -1,6 +1,5 @@
 # JQLab
 
-## Joint Quantum Systems Laboratory  
 Led by Prof. Jianqing Liu
 
 Research in:
