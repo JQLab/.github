@@ -39,4 +39,4 @@ See our research page:
 ### 🤝 Collaborations
 
 For collaboration inquiries, contact:  
-📧 yzhang356@ncsu.edu
+📧 jliu96@ncsu.edu
