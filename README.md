@@ -1,5 +1,3 @@
-# .github
-
 # JQLab
 
 ## Joint Quantum Systems Laboratory  
